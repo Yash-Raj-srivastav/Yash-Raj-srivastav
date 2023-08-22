@@ -12,7 +12,7 @@
 <h1>Welcome to My Profile Showcase</h1>
 
 <h2>About Me</h2>
-<p>Hello! I'm a passionate DevOps Engineer interested in creating amazing projects that solve real-world problems.</p>
+<p>Hello! I am a DevOps Engineer with 3 years of working experience. I Have worked with containerized tools like Docker, Kubernetes and Ansible as configuration management and automation tool, I have working experience on AWS cloud. My daily task includes building automation pipelines for automating deployment process using declarative approach, I use groovy, python and bash scripting, apart from that I work on improving and enhancing the code base by optimizing it.</p>
 
 <h2>Projects</h2>
 <ul>
