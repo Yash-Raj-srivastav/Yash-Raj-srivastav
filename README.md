@@ -7,46 +7,6 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 20px;
-    }
-    h1 {
-        color: #333;
-    }
-    h2 {
-        color: #555;
-    }
-    p {
-        margin-bottom: 15px;
-    }
-    ul {
-        list-style-type: disc;
-        margin-left: 20px;
-    }
-    table {
-        border-collapse: collapse;
-        width: 100%;
-        margin-bottom: 20px;
-    }
-    th, td {
-        border: 1px solid #ddd;
-        padding: 8px;
-        text-align: left;
-    }
-    th {
-        background-color: #f2f2f2;
-    }
-    img {
-        border-radius: 50%;
-        width: 100px;
-        height: 100px;
-        object-fit: cover;
-    }
-</style>
-</head>
 <body>
 
 <h1>Welcome to My Profile Showcase</h1>
@@ -61,7 +21,7 @@
 </ul>
 
 <h2>My Profile Image</h2>
-<img src="New-file-3.gif" alt="My Profile Image">
+![My Profile Image]
 
 <h2>Contact Me</h2>
 <p>Feel free to <a href="mailto:yrseivastav88@gmail.com">Email me</a> for collaboration or any inquiries.</p>
