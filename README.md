@@ -1,5 +1,5 @@
-### Hi there 👋
-### Yash this side 
+## Hi there 👋
+## Yash this side 
 
 - 🔭 I’m currently working on java, groovy, bash scripting, python, docker, k8s, ansible, aws services, jenkins, github actions, ado pipelines
 - I’m currently learning k8s, terraform, IaC, data structure & algorithms(from scaler), problem solving
@@ -50,19 +50,19 @@
 <h1>Welcome to My Profile Showcase</h1>
 
 <h2>About Me</h2>
-<p>Hello! I'm a passionate developer interested in creating amazing projects that solve real-world problems.</p>
+<p>Hello! I'm a passionate DevOps Engineer interested in creating amazing projects that solve real-world problems.</p>
 
 <h2>Projects</h2>
 <ul>
-    <li><a href="#">Project 1</a>: A revolutionary app that...</li>
-    <li><a href="#">Project 2</a>: An open-source library that...</li>
+    <li><a href="https://github.com/Yash-Raj-srivastav/ansible-k8s-automation.git">Project 1</a>: ansible-k8s-automation using GitHub actions on self-hosted runners</li>
+    <li><a href="https://github.com/Yash-Raj-srivastav/SpringBoot-Backend-Application.git">Project 2</a>: discord-bot using gpt-3 API built on SpringBoot </li>
 </ul>
 
 <h2>My Profile Image</h2>
-<img src="profile-image.jpg" alt="My Profile Image">
+<img src="https://github.com/Yash-Raj-srivastav/Yash-Raj-srivastav/blob/5bd3793a6ba24dc7af2280aceddf988a55d593d1/my_profile.jpg" alt="My Profile Image">
 
 <h2>Contact Me</h2>
-<p>Feel free to <a href="mailto:youremail@example.com">contact me</a> for collaboration or any inquiries.</p>
+<p>Feel free to <a href="mailto:yrseivastav88@gmail.com">Email me</a> for collaboration or any inquiries.</p>
 
 <h2>Skills</h2>
 <table>
@@ -72,17 +72,17 @@
         <th>Tools</th>
     </tr>
     <tr>
-        <td>JavaScript</td>
-        <td>React</td>
+        <td>Java</td>
+        <td>Spring Boot</td>
         <td>Git</td>
     </tr>
     <tr>
-        <td>Python</td>
-        <td>Node.js</td>
+        <td>Groovy</td>
+        <td>--</td>
         <td>Docker</td>
     </tr>
     <tr>
-        <td>Java</td>
+        <td>Bash Scripting</td>
         <td>Spring Boot</td>
         <td>VS Code</td>
     </tr>
