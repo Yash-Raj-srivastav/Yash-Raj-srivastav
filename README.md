@@ -30,24 +30,64 @@
 <h2>Skills</h2>
 <table>
     <tr>
-        <th>Programming Languages</th>
-        <th>Frameworks</th>
-        <th>Tools</th>
+        <th>Sr. No.</th>
+        <th>Type</th>
+        <th>Tools & Frameworks</th>
     </tr>
     <tr>
-        <td>Java</td>
-        <td>Spring Boot</td>
-        <td>Git</td>
+        <td>1</td>
+        <td>Programming Languages</td>
+        <td>Java, Groovy, Python, Bash Scripting</td>
     </tr>
     <tr>
-        <td>Groovy</td>
-        <td>--</td>
-        <td>Docker</td>
+        <td>2</td>
+        <td>Container tools</td>
+        <td>Docker, Kubernetes</td>
     </tr>
     <tr>
-        <td>Bash Scripting</td>
-        <td>Spring Boot</td>
-        <td>VS Code</td>
+        <td>3</td>
+        <td>Automation tool</td>
+        <td>Ansible, Terraform</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>CI/CD tools</td>
+        <td>Jenkins, GitHub Actions</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Cloud</td>
+        <td>AWS</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>Web Technology</td>
+        <td>HTML, CSS</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>DBMS</td>
+        <td>MySQL</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>Build tool:</td>
+        <td>Maven</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>Platforms</td>
+        <td>Jira, Confluence, ServiceNow</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>Miscellaneous</td>
+        <td>Data Structures & Algorithms, Spring Boot, YAML,  ReactJs, Git, REST Api, WMB, WMQ</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>Operating System</td>
+        <td>Windows, Ubuntu, CentOS, macOS</td>
     </tr>
 </table>
 
