@@ -1,9 +1,5 @@
 ## Hi there 👋, Yash this side
 
-- 🔭 I’m currently working on java, groovy, bash scripting, python, docker, k8s, ansible, aws services, jenkins, github actions, ado pipelines
-- I’m currently learning k8s, terraform, IaC, data structure & algorithms(from scaler), problem solving
-- I’m looking to collaborate on open source projects
-
 <!DOCTYPE html>
 <html>
 <body>
