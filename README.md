@@ -21,7 +21,8 @@
 </ul>
 
 <h2>My Profile Image</h2>
-![myGIF](https://github.com/Yash-Raj-srivastav/Yash-Raj-srivastav/assets/20614599/18d53da6-341a-4249-98a8-fe43dbe0ea38)
+
+![myGIF](https://github.com/Yash-Raj-srivastav/Yash-Raj-srivastav/assets/20614599/14dcc12b-7bb3-4522-b52e-e3cd09d9d0cd)
 
 <h2>Contact Me</h2>
 <p>Feel free to <a href="mailto:yrseivastav88@gmail.com">Email me</a> for collaboration or any inquiries.</p>
