@@ -21,7 +21,7 @@
 </ul>
 
 <h2>My Profile Image</h2>
-![Black and White Monogram MZ Brand Official Logo (Instagram Story) (100 × 100 px) (200 × 200 px)](https://github.com/Yash-Raj-srivastav/Yash-Raj-srivastav/assets/20614599/5aacddcd-db51-431d-a19c-ac7e66a75df8)
+https://github.com/Yash-Raj-srivastav/Yash-Raj-srivastav/assets/20614599/5aacddcd-db51-431d-a19c-ac7e66a75df8
 
 <h2>Contact Me</h2>
 <p>Feel free to <a href="mailto:yrseivastav88@gmail.com">Email me</a> for collaboration or any inquiries.</p>
