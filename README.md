@@ -61,7 +61,7 @@
 </ul>
 
 <h2>My Profile Image</h2>
-<img src="https://github.com/Yash-Raj-srivastav/Yash-Raj-srivastav/blob/5bd3793a6ba24dc7af2280aceddf988a55d593d1/my_profile.jpg" alt="My Profile Image">
+<img src="https://drive.google.com/file/d/1M-LA2lATEoVCbk92pEWBDXmgW0W3wgKk/view?usp=sharing" alt="My Profile Image">
 
 <h2>Contact Me</h2>
 <p>Feel free to <a href="mailto:yrseivastav88@gmail.com">Email me</a> for collaboration or any inquiries.</p>
