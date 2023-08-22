@@ -2,8 +2,8 @@
 ### Yash this side 
 
 - 🔭 I’m currently working on java, groovy, bash scripting, python, docker, k8s, ansible, aws services, jenkins, github actions, ado pipelines
-- 🌱 I’m currently learning k8s, terraform, IaC, data structure & algorithms(from scaler), problem solving
-- 👯 I’m looking to collaborate on open source projects
+- I’m currently learning k8s, terraform, IaC, data structure & algorithms(from scaler), problem solving
+- I’m looking to collaborate on open source projects
 
 ![Profile Visitors](https://vbr.wocr.tk/badge?page_id=Yash-Raj-srivastav.Yash-Raj-srivastav&color=00cf00)
 
