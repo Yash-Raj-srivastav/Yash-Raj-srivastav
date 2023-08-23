@@ -15,7 +15,7 @@
     <li>Project 2:  <a href="https://github.com/Yash-Raj-srivastav/SpringBoot-Backend-Application.git">discord-bot using gpt-3 API built on SpringBoot</a></li>
 </ul>
 
-<h2>My Profile GIF</h2>
+<h2>My Brand GIF</h2>
 
 ![myGIF](https://github.com/Yash-Raj-srivastav/Yash-Raj-srivastav/assets/20614599/8eae1103-a81a-44cb-bd4b-c41da33f2f54)
 
