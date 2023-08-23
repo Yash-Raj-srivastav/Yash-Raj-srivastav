@@ -12,7 +12,7 @@
 <h2>Projects</h2>
 <ul>
     <li>Project 1: <a href="https://github.com/Yash-Raj-srivastav/ansible-k8s-automation.git">ansible-k8s-automation using GitHub actions on self-hosted runners</a></li>
-    <li>Project 2:  <a href="https://github.com/Yash-Raj-srivastav/SpringBoot-Backend-Application.git">discord-bot using gpt-3 API built on SpringBoot</a></li>
+    <li>Project 2:  <a href="https://github.com/Yash-Raj-srivastav/SpringBoot-Backend-Application.git">Blog application built on SpringBoot</a></li>
 </ul>
 
 <h2>My Brand logo</h2>
