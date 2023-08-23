@@ -17,7 +17,7 @@
 
 <h2>My Brand logo</h2>
 
-![myGIF](https://github.com/Yash-Raj-srivastav/Yash-Raj-srivastav/assets/20614599/8eae1103-a81a-44cb-bd4b-c41da33f2f54)
+![myGIF](https://github.com/Yash-Raj-srivastav/Yash-Raj-srivastav/assets/20614599/0a081e31-70b4-4843-9b60-23a8b094d453)
 
 <h2>Contact Me</h2>
 <p>Feel free to <a href="mailto:yrseivastav88@gmail.com">Email me</a> for collaboration or any inquiries.</p>
