@@ -82,7 +82,7 @@
     <tr>
         <td>11</td>
         <td>Operating System</td>
-        <td>Windows, Ubuntu, CentOS, macOS</td>
+        <td>Windows, Ubuntu, macOS</td>
     </tr>
 </table>
 
