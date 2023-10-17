@@ -77,7 +77,7 @@
     <tr>
         <td>10</td>
         <td>Miscellaneous</td>
-        <td>Data Structures & Algorithms, Spring Boot, YAML,  ReactJs, Git, REST Api, WMB, WMQ</td>
+        <td>Data Structures & Algorithms, AWS Cloud Development Kit, Spring Boot, YAML,  ReactJs, Git, REST Api</td>
     </tr>
     <tr>
         <td>11</td>
