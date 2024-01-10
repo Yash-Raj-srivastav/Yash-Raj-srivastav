@@ -32,37 +32,37 @@
     <tr>
         <td>1</td>
         <td>Programming Languages</td>
-        <td>Java, Groovy, Python, Bash Scripting</td>
+        <td>Java, Groovy, Python, Bash Scripting, TypeScript, Powershell scripting</td>
     </tr>
     <tr>
         <td>2</td>
         <td>Container tools</td>
-        <td>Docker, Kubernetes</td>
+        <td>Docker, Kubernetes, ECS</td>
     </tr>
     <tr>
         <td>3</td>
         <td>Automation tool</td>
-        <td>Ansible, Terraform</td>
+        <td>AWS CDK, Ansible, Terraform</td>
     </tr>
     <tr>
         <td>4</td>
         <td>CI/CD tools</td>
-        <td>Jenkins, GitHub Actions</td>
+        <td>Jenkins, GitHub Actions, ADO pipelines</td>
     </tr>
     <tr>
         <td>5</td>
         <td>Cloud</td>
-        <td>AWS</td>
+        <td>AWS, Azure</td>
     </tr>
     <tr>
         <td>6</td>
         <td>Web Technology</td>
-        <td>HTML, CSS</td>
+        <td>HTML, CSS, JavaScript</td>
     </tr>
     <tr>
         <td>7</td>
         <td>DBMS</td>
-        <td>MySQL</td>
+        <td>MySQL, Postgres</td>
     </tr>
     <tr>
         <td>8</td>
@@ -77,7 +77,7 @@
     <tr>
         <td>10</td>
         <td>Miscellaneous</td>
-        <td>Data Structures & Algorithms, AWS Cloud Development Kit, Spring Boot, YAML,  ReactJs, Git, REST Api</td>
+        <td>Data Structures & Algorithms, Spring Boot, Spring Security, JWT based Authentication, OAuth2, YAML, ReactJs, Next.js, Git, REST Api</td>
     </tr>
     <tr>
         <td>11</td>
